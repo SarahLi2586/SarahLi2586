@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi, I am YINGYING LI 👋
+ I'm a Master's student in Computer Science. I specialize in software development with a focus on Java, Spring Boot, Kotlin, SQL, Git, and AWS. I'm passionate about creating efficient and scalable software solutions, and I'm currently exploring opportunities where I can apply my skills and grow as a professional developer.
+
+📫 How to reach me:
+Email: yingyingli825@gmail.com
+LinkedIn: https://www.linkedin.com/in/yingyinglia/
+
 
 <!--
 **SarahLi2586/SarahLi2586** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
